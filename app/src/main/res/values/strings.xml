@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Sensor</string>
+    <string name="choose_sensors_s_to_test">Choose sensors(s) to test:</string>
+    <string name="compass">Compass</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="accelerometer_values">Accelerometer values:</string>
+</resources>

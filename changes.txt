@@ -1,0 +1,9 @@
+* Skapade ett projekt enligt https://developer.android.com/training/basics/firstapp/index.html
+* Kopierade den mesta koden för kompassen från https://www.wlsdevelop.com/index.php/en/blog?option=com_content&view=article&id=38
+* Accelerometer är för det mesta självskriven, start() och stop() är modifierade version av kompassen.
+* En del modifieringar av resursfiler har gjorts för att använda ConstraintLayout.
+
+Utvidningar:
+    * Ändrade kompass bild
+    * Vibrerar telefonen när kompassen pekar mot norr
+    * Skriver ut vilket håll telfonen lutar åt
